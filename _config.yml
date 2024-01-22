@@ -96,19 +96,19 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-NY3YM0FWGE"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Arpit Phillips"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I help businesses capture creative visuals, that can showcase them in a dynamic light."
+  location         : "Mumbai"
+  email            : "arpit.phillips@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
